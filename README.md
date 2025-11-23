@@ -8,19 +8,19 @@ I built this environment to build hands on security skills. I am very passionate
 
 ## Repository Structure
 
-### **/main-lab/**
+### **main-lab**
 Documentation for the core architecture of BlakeNet, including:
 
 - Network topology  
 - VM & device inventory  
-- Services (Splunk, Pi-hole, AD, Sysmon, VPN, etc.)  
-- Changelog showing updates  
+- Services (Splunk, Pi-hole, AD, Sysmon, etc.)  
+- Changelog showing updates
 
 This folder represents the stable, always-current state of the homelab.
 
 ---
 
-### **/current-projects/**
+### **current-projects**
 Active engineering efforts I’m working on.  
 Each project is tracked as a simple Markdown file using a lightweight template.
 
@@ -32,7 +32,7 @@ Examples include:
 
 ---
 
-### **/completed-projects/**
+### **completed-projects**
 Finished projects that serve as portfolio pieces.  
 These documents include purpose, steps taken, issues/fixes, validation, and results.
 
