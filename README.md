@@ -33,7 +33,7 @@ Examples include:
 ---
 
 ### **completed-projects**
-Finished projects that serve as portfolio pieces.  
+Finished projects that were originally in the current-projects folder.
 These documents include purpose, steps taken, issues/fixes, validation, and results.
 
 Examples might include:
