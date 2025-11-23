@@ -1,0 +1,10 @@
+Name,Type,OS,IP ,Roles/Services/Description,Specs
+BK-DESKTOP,Workstation - Physical,Windows 11,Dynamic,"Primary workstation, Hosts all VMs",Custom built desktop
+BK-LAPTOP,Workstation - Physical,Windows 11,Dynamic,Mobile workstation,
+pi,Server - Physical,Linux,10.0.0.3,"Pihole DNS Filtering, N8N host, Lab sensor host ",Raspberry Pi 4B 8GB 
+splunkserver,Server - VM,Linux,10.0.0.6,Splunk Enterprise server,
+BK-DC,Server - VM,Windows Server 2025,10.0.0.2,"Domain controller, controls blakenet.lab, dhcp, local DNS",
+TP-Link TL-SG116E ,Network Switch,N/A,N/A,Not in use yet - but will be used for VLAN management,
+Netgear Nighthawk ,Router,N/A,10.0.0.1,Routes traffic to the internet,
+red-team-box,Workstation - VM,Kali Linux,Dynamic,Used for simulating attacks within the lab,
+test,Workstation - VM,Windows 11,Dynamic,"Simulates a vulnerable machine, run atomic red team tests",
