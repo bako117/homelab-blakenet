@@ -1,23 +1,12 @@
 # BlakeNet Homelab
 
 Welcome to my cybersecurity homelab — a fully functional, detection-driven environment built to mirror real-world enterprise infrastructure.  
-This repo documents the architecture of my lab, current engineering projects, and completed work that demonstrates my skills in SOC operations, detection engineering, automation, and system administration.
+This repo documents the architecture of my lab, current engineering projects, and completed work that demonstrates my skills in SOC operations, security engineering, automation, and system administration.
 
----
+## Purpose of This Lab
+I built this environment to build hands on security skills. I am very passionate about computers and information security and my lab is great way to learn, develop, and fuel my passion.
 
-## 🔐 Purpose of This Lab
-I built this environment to:
-
-- Develop hands-on SOC and detection engineering skills  
-- Build and test custom Splunk detections using real logs  
-- Practice administering Active Directory and domain-joined Windows systems  
-- Experiment with security tools like Sysmon, Pi-hole, n8n, PiVPN, and more  
-- Simulate real attack behavior using Atomic Red Team  
-- Create a portfolio of practical projects for cybersecurity career growth  
-
----
-
-## 🧱 Repository Structure
+## Repository Structure
 
 ### **/main-lab/**
 Documentation for the core architecture of BlakeNet, including:
@@ -25,7 +14,7 @@ Documentation for the core architecture of BlakeNet, including:
 - Network topology  
 - VM & device inventory  
 - Services (Splunk, Pi-hole, AD, Sysmon, VPN, etc.)  
-- Changelog showing major updates  
+- Changelog showing updates  
 
 This folder represents the stable, always-current state of the homelab.
 
@@ -57,7 +46,7 @@ Examples might include:
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 Through this homelab, I explore and document:
 
 - SIEM engineering (Splunk architecture, ingestion, detection logic)  
@@ -71,17 +60,8 @@ Through this homelab, I explore and document:
 
 ---
 
-## 🚀 Future Plans
-- Deploy Zeek or Suricata sensors  
-- Expand detection coverage mapped to MITRE ATT&CK  
-- Build a central SOC dashboard  
-- Add a small SOAR system for automated alert enrichment  
-- Create more advanced documentation & walkthroughs  
-
----
-
 ## 📬 Contact
-If you’d like to discuss detection engineering, SOC work, or cybersecurity projects, feel free to reach out.
+If you’d like to discuss detection engineering, SOC work, or cybersecurity projects, feel free to reach out to me at blakekottlowski@gmail.com . 
 
 ---
 
