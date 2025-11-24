@@ -1,4 +1,4 @@
-![BlakeNet Labs Logo](main-lab/images/blakenet-logo.png)
+![BlakeNet Labs Logo](main-lab/images/blakenet-logo-banner.png)
 
 Welcome to my cybersecurity homelab — a fully functional, detection-driven environment built to mirror real-world enterprise infrastructure.  
 This repo documents the architecture of my lab, current engineering projects, and completed work that demonstrates my skills in SOC operations, security engineering, automation, and system administration.
